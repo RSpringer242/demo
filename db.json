@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "orders": [
+  {
+    orderID: 'wfrwrg',
+    date: '7/13/2019',
+    name: 'Duranda',
+    number: '2424359948',
+    orderStatus: 'active'
+  },
+  {
+    orderID: 'efwrtb',
+    date: '7/13/2019',
+    name: 'Rawle',
+    number: '2424359938',
+    orderStatus: 'completed'
+  },
+  {
+    orderID: 'wwvrv',
+    date: '7/13/2019',
+    name: 'Lorenzo',
+    number: '2424352938',
+    orderStatus: 'active'
+  },
+  {
+    orderID: 'svkgp',
+    date: '7/13/2019',
+    name: 'Kelly',
+    number: '2424259434',
+    orderStatus: 'completed'
+  },
+  {
+    orderID: 'vhopapx',
+    date: '7/13/2019',
+    name: 'Kyle',
+    number: '2426359231',
+    orderStatus: 'active'
   }
-}
+  ],
+  
