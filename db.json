@@ -1,39 +1,39 @@
 {
   "orders": [
-  {
-    orderID: 'wfrwrg',
-    date: '7/13/2019',
-    name: 'Duranda',
-    number: '2424359948',
-    orderStatus: 'active'
+       {
+    "orderID": "wfrwrg",
+    "date": "7/13/2019",
+    "name": "Duranda",
+    "number": "2424359948",
+    "orderStatus": "active"
   },
   {
-    orderID: 'efwrtb',
-    date: '7/13/2019',
-    name: 'Rawle',
-    number: '2424359938',
-    orderStatus: 'completed'
+    "orderID": "efwrtb",
+    "date": "7/13/2019",
+    "name": "Rawle",
+    "number": "2424359938",
+    "orderStatus": "completed"
   },
   {
-    orderID: 'wwvrv',
-    date: '7/13/2019',
-    name: 'Lorenzo',
-    number: '2424352938',
-    orderStatus: 'active'
+    "orderID": "wwvrv",
+    "date": "7/13/2019",
+    "name": "Lorenzo",
+    "number": "2424352938",
+    "orderStatus": "active"
   },
   {
-    orderID: 'svkgp',
-    date: '7/13/2019',
-    name: 'Kelly',
-    number: '2424259434',
-    orderStatus: 'completed'
+    "orderID": "svkgp",
+    "date": "7/13/2019",
+    "name": "Kelly",
+    "number": "2424259434",
+    "orderStatus": "completed"
   },
   {
-    orderID: 'vhopapx',
-    date: '7/13/2019',
-    name: 'Kyle',
-    number: '2426359231',
-    orderStatus: 'active'
+    "orderID": "vhopapx",
+    "date": "7/13/2019",
+    "name": "Kyle",
+    "number": "2426359231",
+    "orderStatus": "active"
   }
   ],
   
